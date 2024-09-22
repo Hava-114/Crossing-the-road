@@ -4,11 +4,10 @@ _Crossing Road Challenge is an exciting arcade-style game developed using Python
 **Features:**
 
   Simple Controls:
-  
-    Intuitive keyboard controls allow players to move their character up, down, left, or right.
+      Intuitive keyboard controls allow players to move their character up, down, left, or right.
+      
   Dynamic Traffic: 
-  
-    A variety of vehicles move at different speeds, creating a challenging environment that requires quick reflexes and strategic planning.
+      A variety of vehicles move at different speeds, creating a challenging environment that requires quick reflexes and strategic planning.
   Levels of Difficulty: 
     As players progress, the speed and density of traffic increase, offering a gradual challenge.
   Score System: 
