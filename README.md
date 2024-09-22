@@ -2,9 +2,12 @@
 _Crossing Road Challenge is an exciting arcade-style game developed using Python's Turtle graphics library. Players must navigate a busy road filled with moving vehicles and obstacles to reach the safety of the other side._
 
 **Features:**
-  Simple Controls: 
+
+  Simple Controls:
+  
     Intuitive keyboard controls allow players to move their character up, down, left, or right.
   Dynamic Traffic: 
+  
     A variety of vehicles move at different speeds, creating a challenging environment that requires quick reflexes and strategic planning.
   Levels of Difficulty: 
     As players progress, the speed and density of traffic increase, offering a gradual challenge.
